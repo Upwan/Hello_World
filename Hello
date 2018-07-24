@@ -1,0 +1,11 @@
+# This is a simple hello world program using python in linux
+
+#!/usr/bin/python -tt
+
+def main():
+  print "Hello!!! "
+
+__name__=='__main__':
+  main()
+
+#Thank you
